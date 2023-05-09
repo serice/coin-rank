@@ -1,0 +1,2 @@
+# BINANCE & UPBIT
+simulation & trade
