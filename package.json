@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@binance/connector": "^1.3.1",
+    "crypto": "^1.0.1",
+    "dayjs": "^1.10.4",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "uuid": "^8.3.2",
+    "uuid-v4": "^0.1.0",
+    "uuid4": "^2.0.2",
+    "uuidv4": "^6.2.6"
+  }
+}
